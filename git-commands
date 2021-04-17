@@ -35,9 +35,9 @@ git reset --hard cid (it will delete files and log's)
 
 
 
-git clone https://github.com/swathichowdaryc/Repo1.git
+git clone https://github.com/polarapu/batch66.git
 ls
-cd Repo1
+cd batch66
 touch file1
 git status
 git add .
