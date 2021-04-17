@@ -49,7 +49,16 @@ git pull --rebase
 
 
 
-
+mkdir name-dir
+mkdir prasad-dir
+cd prasad-dir
+touch f1 f2 f3
+cd ..
+git add *
+git commit -m "label"
+git push
+git pull --rebase
+git push
 
 
 
