@@ -61,6 +61,36 @@ git pull --rebase
 git push
 
 
+====================
+git log's
+-----------
+
+git log
+git log -n
+git log --oneline
+git log --oneline -n
+git log --author=prasad
+git log --author=prasad -n
+git log --author=prasad --oneline
+git log --author=prasad --oneline -n
+
+git log --since=yy-mm-dd
+or
+git log --after="yy-mm-dd"
+
+git log --until=yy-mm-dd
+or
+git log --before="yy-mm-dd"
+
+git log --since=yy-mm-dd --until=yy-mm-dd
+or
+git log --after="yy-mm-dd" --before="yy-mm-dd"
+
+git log --after="yy-mm-dd 00:00" --before="yy-mm-dd 00:00"
+
+git log --grep="label"
+
+git log -- file-name
 
 
 
