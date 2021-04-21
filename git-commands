@@ -1,9 +1,3 @@
-git init
-git config --global user.name "Polarapu Prasad"
-git config --global user.email "devopstraining2015@gmail.com"
-
-git config --list
-
 touch prasad
 ls
 git status
@@ -17,7 +11,8 @@ git show cid
 touch file2 file3 file4 file5
 ls
 git status
-git add file2 file3 file4 file5
+zxivjhdfbnkdslf
+s1git add file2 file3 file4 file5
 or
 git add .
 or
@@ -27,7 +22,7 @@ git add -A
 git status
 git commit -m "label"
 
-
+f bsdjhfhusfkmvc
 git reset --soft cid  (local to staging)
 git reset head file-name (staging to workspace)
 git reset --mixed cid  (local to workspace)
@@ -44,9 +39,9 @@ git add .
 git status
 git commit -m "test commit" file1
 git status
-git push
+git pushnkfjndsfjkskf
 git pull --rebase
-
+ffsdfbsukfjsjkf
 
 
 mkdir name-dir
@@ -59,7 +54,7 @@ git commit -m "label"
 git push
 git pull --rebase
 git push
-
+nmdsnjfSKJFksff
 
 ====================
 git log's
@@ -78,7 +73,7 @@ git log --since=yy-mm-dd
 or
 git log --after="yy-mm-dd"
 
-git log --until=yy-mm-dd
+git log --untilvmdsnf,jsdFsf=yy-mm-dd
 or
 git log --before="yy-mm-dd"
 
@@ -88,9 +83,8 @@ git log --after="yy-mm-dd" --before="yy-mm-dd"
 
 git log --after="yy-mm-dd 00:00" --before="yy-mm-dd 00:00"
 
-git log --grep="label"
-
-git log -- file-name
+dnvhjdsbfnds f
+d dsjhfdshjf
 
 
 
