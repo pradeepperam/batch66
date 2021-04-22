@@ -92,6 +92,8 @@ git log --grep="label"
 
 git log -- file-name
 
+Thanks all!
+
 
 
 
