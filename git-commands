@@ -74,7 +74,7 @@ git log --author=prasad -n
 git log --author=prasad --oneline
 git log --author=prasad --oneline -n
 
-git log --since=yy-mm-dd
+git log --since=2021-04-22
 or
 git log --after="yy-mm-dd"
 
